@@ -15,6 +15,7 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
 Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp. See [FAQ](./faq.md) for alternatives.
+
 (Note: I have edited the guide to instead follow [the new App Academy curriculum](https://my.appacademy.io/). See the separate 
 "AAO Unit Progress.odt" file for more specific progress and evidence pictures.)
 
