@@ -22,8 +22,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
 | Web Development Fundamentals                                                                                                                                          |      Completed 03/11/24      |              |
 | JavaScript Fundamentals                                                                                                                                               |      Completed 04/03/24      |              |
-| Intermediate JavaScript                                                                                                                  
-              |      Completed 04/30/24      |              |
+| Intermediate JavaScript                                                                                                                                               |      Completed 04/30/24      |              |
 | TDD and OOP                                                                                                                                                           |      In progress      |              |
 | Data Structures and Algorithms                                                                                                                                        |            |              |
 | HTML and CSS                                                                                                                                                          |            |              |
@@ -34,8 +33,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | Web Security and Authentication                                                                                                                                       |            |              |
 | React                                                                                                                                                                 |            |              |
 | Redux and Authentication                                                                                                                                              |            |              |
-| Python
-              |            |              |
+| Python                                                                                                                                                                |            |              |
 | Flask, SQLAlchemy, and Forms                                                                                                                                          |            |              |
 | Docker and Microservices                                                                                                                                              |            |              |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
