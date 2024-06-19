@@ -24,7 +24,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | Web Development Fundamentals                                                                                                                                          |      Completed 03/11/24      |              |
 | JavaScript Fundamentals                                                                                                                                               |      Completed 04/03/24      |              |
 | Intermediate JavaScript                                                                                                                                               |      Completed 04/30/24      |              |
-| TDD and OOP                                                                                                                                                           |      In progress      |              |
+| TDD and OOP                                                                                                                                                           |      Completed 06/19/24      |              |
 | Data Structures and Algorithms                                                                                                                                        |            |              |
 | HTML and CSS                                                                                                                                                          |            |              |
 | Servers, APIs, and Promises                                                                                                                                           |            |              |
